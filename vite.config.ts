@@ -19,7 +19,6 @@ export default defineConfig({
         globals: {
           react: "React",
           "react-dom": "ReactDom",
-          "styled-components": "styled",
         },
       },
     },
